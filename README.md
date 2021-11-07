@@ -2,6 +2,7 @@
 - 👀 I’m interested in Front Web Development
 - 🌱 I’m currently learning HTML, CSS and JavaScript by building some challenges
 - 📫 How to reach me: djordje.lfc@gmail.com
+
 After being stuck in "tutorial hell" for quite some time I've decided to start building things. 👨‍💻
 
 <!---
